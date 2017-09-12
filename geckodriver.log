@@ -1,0 +1,387 @@
+1505240137670	geckodriver	INFO	geckodriver 0.18.0
+1505240137679	geckodriver	INFO	Listening on 127.0.0.1:52181
+1505244658742	geckodriver	INFO	geckodriver 0.18.0
+1505244658752	geckodriver	INFO	Listening on 127.0.0.1:59256
+1505244660834	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505244661187	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505244661506	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5236] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14208] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13984] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505244662682	Marionette	INFO	Listening on port 59266
+1505244662704	Marionette	INFO	Listening on port 59266
+1505244662857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505244662887	Marionette	DEBUG	loaded listener.js
+1505244662907	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505244663339	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505244663340	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505244664197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505244664211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505244664261	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505244665357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505244665359	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505244665427	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+JavaScript error: https://prod-gameday.mlbstatic.com/app-web/3.0.5-mlb.9/gd.min.js, line 34: TypeError: window.gptadslots[e] is undefined
+1505244665863	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f18b680d36a5c34&origin=https%3A%2F%2Fwww.mlb.com"
+1505244665865	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f18b680d36a5c34&origin=https%3A%2F%2Fwww.mlb.com"
+1505244669169	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x8A0001,name=PLayerTransaction::Msg_InitReadLocks) Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1505244690685	geckodriver	INFO	geckodriver 0.18.0
+1505244690689	geckodriver	INFO	Listening on 127.0.0.1:59414
+1505244692783	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505244693165	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505244693475	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12420] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11920] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9976] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9976] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505244694594	Marionette	INFO	Listening on port 59422
+1505244694658	Marionette	INFO	Listening on port 59422
+1505244694797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505244694825	Marionette	DEBUG	loaded listener.js
+1505244694844	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505244695302	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505244695303	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505244695935	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505244695955	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505244696025	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505244696476	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505244696478	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505244697385	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+1505244697464	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f33ff87a971c5da&origin=https%3A%2F%2Fwww.mlb.com"
+1505244697466	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f33ff87a971c5da&origin=https%3A%2F%2Fwww.mlb.com"
+JavaScript error: https://prod-gameday.mlbstatic.com/app-web/3.0.5-mlb.9/gd.min.js, line 34: TypeError: window.gptadslots[e] is undefined
+1505244701127	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1505244829069	geckodriver	INFO	geckodriver 0.18.0
+1505244829076	geckodriver	INFO	Listening on 127.0.0.1:59725
+1505244831183	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505244831463	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505244831769	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12776] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13140] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11744] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11744] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505244832842	Marionette	INFO	Listening on port 59735
+1505244832866	Marionette	INFO	Listening on port 59735
+1505244833198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505244833227	Marionette	DEBUG	loaded listener.js
+1505244833244	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505244833703	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505244833703	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505244834372	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505244834392	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505244834509	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505244835455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505244835457	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+JavaScript error: https://prod-gameday.mlbstatic.com/app-web/3.0.5-mlb.9/gd.min.js, line 34: TypeError: window.gptadslots[e] is undefined
+1505244836023	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505244836123	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f35472af3c2e6&origin=https%3A%2F%2Fwww.mlb.com"
+1505244836138	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f35472af3c2e6&origin=https%3A%2F%2Fwww.mlb.com"
+1505244839185	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1505244925620	geckodriver	INFO	geckodriver 0.18.0
+1505244925625	geckodriver	INFO	Listening on 127.0.0.1:59979
+1505244927711	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505244927895	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505244928198	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13232] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505244929343	Marionette	INFO	Listening on port 59989
+1505244929354	Marionette	INFO	Listening on port 59989
+1505244929726	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505244929753	Marionette	DEBUG	loaded listener.js
+1505244929770	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505244930196	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505244930196	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505244930835	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505244930856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505244931019	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505244931592	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505244931594	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505244932124	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+JavaScript error: https://prod-gameday.mlbstatic.com/app-web/3.0.5-mlb.9/gd.min.js, line 34: TypeError: window.gptadslots[e] is undefined
+1505244932594	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f4eb00124bdf68&origin=https%3A%2F%2Fwww.mlb.com"
+1505244932595	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f4eb00124bdf68&origin=https%3A%2F%2Fwww.mlb.com"
+1505244935761	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505245510330	geckodriver	INFO	geckodriver 0.18.0
+1505245510338	geckodriver	INFO	Listening on 127.0.0.1:60940
+1505245512429	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505245512615	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505245512924	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11032] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505245514000	Marionette	INFO	Listening on port 60950
+1505245514015	Marionette	INFO	Listening on port 60950
+1505245514445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505245514473	Marionette	DEBUG	loaded listener.js
+1505245514488	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505245514905	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505245514906	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505245515563	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505245515581	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505245515669	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505245516259	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505245516261	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505245516795	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+JavaScript error: https://prod-gameday.mlbstatic.com/app-web/3.0.5-mlb.9/gd.min.js, line 34: TypeError: window.gptadslots[e] is undefined
+1505245517229	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=fc2d60bd5db1f8&origin=https%3A%2F%2Fwww.mlb.com"
+1505245517231	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=fc2d60bd5db1f8&origin=https%3A%2F%2Fwww.mlb.com"
+1505245520509	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1505245673965	geckodriver	INFO	geckodriver 0.18.0
+1505245673970	geckodriver	INFO	Listening on 127.0.0.1:61331
+1505245676061	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505245676246	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505245676550	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 12632] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505245677625	Marionette	INFO	Listening on port 61341
+1505245677631	Marionette	INFO	Listening on port 61341
+1505245678090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505245678126	Marionette	DEBUG	loaded listener.js
+1505245678157	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505245678589	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505245678589	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505245679307	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505245679332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505245679377	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505245679812	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505245679814	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505245680482	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+JavaScript error: https://prod-gameday.mlbstatic.com/app-web/3.0.5-mlb.9/gd.min.js, line 34: TypeError: window.gptadslots[e] is undefined
+1505245680859	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f11464aaab297de&origin=https%3A%2F%2Fwww.mlb.com"
+1505245680860	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f11464aaab297de&origin=https%3A%2F%2Fwww.mlb.com"
+1505245685057	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+[Child 9544] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1505246261120	geckodriver	INFO	geckodriver 0.18.0
+1505246261125	geckodriver	INFO	Listening on 127.0.0.1:62306
+1505246263230	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505246263417	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505246263722	Marionette	INFO	Enabled via --marionette
+1505246264839	Marionette	INFO	Listening on port 62314
+1505246264868	Marionette	INFO	Listening on port 62314
+1505246265261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505246265311	Marionette	DEBUG	loaded listener.js
+1505246265330	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505246265724	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505246265724	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505246266385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505246266405	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246266529	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246266900	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246266903	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246267542	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+1505246268005	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f192a76d013fa06&origin=https%3A%2F%2Fwww.mlb.com"
+1505246268008	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f192a76d013fa06&origin=https%3A%2F%2Fwww.mlb.com"
+1505246268012	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268014	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268014	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268015	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268017	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+JavaScript error: https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242, line 25: SyntaxError: missing ; before statement
+1505246268656	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268676	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268678	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268680	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268692	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246268709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1505246268709	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1505246268879	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246269835	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246269836	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246269950	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.flashtalking.com/49467/1830466/TMO_GeneralMarket_Network_728x90.html"
+1505246269981	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.flashtalking.com/49467/1830466/TMO_GeneralMarket_Network_728x90.html"
+1505246270168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.flashtalking.com/49467/728x90_network_RL_v5/index.html"
+1505246270251	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246270266	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.flashtalking.com/49467/728x90_network_RL_v5/index.html"
+1505246270286	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246272719	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246705929	geckodriver	INFO	geckodriver 0.18.0
+1505246705935	geckodriver	INFO	Listening on 127.0.0.1:62685
+1505246708023	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505246708209	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505246708516	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 11088] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505246709607	Marionette	INFO	Listening on port 62691
+1505246709615	Marionette	INFO	Listening on port 62691
+1505246710047	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505246710079	Marionette	DEBUG	loaded listener.js
+1505246710100	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505246710494	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505246710494	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505246711128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505246711150	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246711277	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246711672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246711674	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246712329	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+1505246712420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f7a66618e554ea&origin=https%3A%2F%2Fwww.mlb.com"
+1505246712421	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f7a66618e554ea&origin=https%3A%2F%2Fwww.mlb.com"
+1505246712827	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246712828	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246712829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246712829	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246712830	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246712830	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246713168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246713172	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246713336	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246713344	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246713348	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/trackimp/N8334.8705.MLBADVANCEDMEDIA/B11370910.151292738;dc_trk_aid=321995451;dc_trk_cid=82157532;ord=388394126;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1505246713351	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/trackimp/N8334.8705.MLBADVANCEDMEDIA/B11370910.151292484;dc_trk_aid=321994878;dc_trk_cid=82157821;ord=388394126;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1505246713472	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246713484	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246713517	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246713529	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1505246713684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246713694	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246717179	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+[Child 13616] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+1505246803092	geckodriver	INFO	geckodriver 0.18.0
+1505246803100	geckodriver	INFO	Listening on 127.0.0.1:62814
+1505246805181	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505246805367	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505246805668	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 13784] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7560] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8616] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505246806770	Marionette	INFO	Listening on port 62820
+1505246806783	Marionette	INFO	Listening on port 62820
+1505246807201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505246807233	Marionette	DEBUG	loaded listener.js
+1505246807251	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505246807655	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505246807655	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505246808309	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505246808331	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246808425	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246809442	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246809444	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246809514	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+1505246809612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2bd7da2acf00e&origin=https%3A%2F%2Fwww.mlb.com"
+1505246809613	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2bd7da2acf00e&origin=https%3A%2F%2Fwww.mlb.com"
+JavaScript error: https://prod-gameday.mlbstatic.com/app-web/3.0.5-mlb.9/gd.min.js, line 34: TypeError: window.gptadslots[e] is undefined
+1505246813464	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1505246892142	geckodriver	INFO	geckodriver 0.18.0
+1505246892147	geckodriver	INFO	Listening on 127.0.0.1:62935
+1505246894231	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505246894415	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505246894721	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1324] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13320] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13320] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505246895797	Marionette	INFO	Listening on port 62941
+1505246895852	Marionette	INFO	Listening on port 62941
+1505246896244	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505246896275	Marionette	DEBUG	loaded listener.js
+1505246896297	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505246896756	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505246896756	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505246897426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505246897518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246897589	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246898099	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246898101	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246898611	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+1505246898698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2a3664de39b4bc&origin=https%3A%2F%2Fwww.mlb.com"
+1505246898699	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f2a3664de39b4bc&origin=https%3A%2F%2Fwww.mlb.com"
+JavaScript error: https://prod-gameday.mlbstatic.com/app-web/3.0.5-mlb.9/gd.min.js, line 34: TypeError: window.gptadslots[e] is undefined
+1505246899850	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246929618	geckodriver	INFO	geckodriver 0.18.0
+1505246929623	geckodriver	INFO	Listening on 127.0.0.1:63053
+1505246931684	geckodriver::marionette	INFO	Starting browser C:\Program Files\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1505246931869	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1596"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1596 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1631 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3152 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2246 < callProvider()@resource://gre/modules/AddonManager.jsm:271 < _startProvider()@resource://gre/modules/AddonManager.jsm:741 < startup()@resource://gre/modules/AddonManager.jsm:908 < startup()@resource://gre/modules/AddonManager.jsm:3122 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+1505246932176	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10076] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 11732] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8952] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1505246933302	Marionette	INFO	Listening on port 63059
+1505246933324	Marionette	INFO	Listening on port 63059
+1505246933698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1505246933727	Marionette	DEBUG	loaded listener.js
+1505246933745	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1505246934121	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1505246934121	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+Unable to read VR Path Registry from C:\Users\tpwin10\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.mlbstatic.com/mlb.com/builds/site-core/18a07c872d1dee98e85edef8bf188affd45b0e20_1504898576/scripts/site-core.js, line 16: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1505246934770	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box"
+1505246934808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246934926	Marionette	DEBUG	Received DOM event "pageshow" for "https://cdn.krxd.net/partnerjs/xdi/proxy.3d2100fd7107262ecb55ce6847f01fa5.html#!kxcid=rja6bo8zd&kxt=https%3A%2F%2Fwww.mlb.com&kxcl=cdn&kxp="
+1505246935323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246935324	Marionette	DEBUG	Received DOM event "pageshow" for "https://mlb.demdex.net/dest5.html?d_nsid=0#https%3A%2F%2Fwww.mlb.com%2Fgameday%2Fpirates-vs-cardinals%2F2017%2F09%2F10%2F492242%3FpartnerId%3DLR_box%23game_tab%3Dbox"
+1505246935983	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=,game=492242"
+1505246936073	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f39bb58c7fa5b6&origin=https%3A%2F%2Fwww.mlb.com"
+1505246936076	Marionette	DEBUG	Received DOM event "pageshow" for "https://staticxx.facebook.com/connect/xd_arbiter/r/0sTQzbapM8j.js?version=42#channel=f39bb58c7fa5b6&origin=https%3A%2F%2Fwww.mlb.com"
+1505246936451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246936453	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246936454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246936455	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246936455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246936457	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246936852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246936857	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246936906	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/trackimp/N6059.1718844MLB.COM/B11234350.204427746;dc_trk_aid=404183846;dc_trk_cid=82320291;pid=MLBDA0356;ord=170473548;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1505246936907	Marionette	DEBUG	Received DOM event "pageshow" for "https://ad.doubleclick.net/ddm/trackimp/N6059.1718844MLB.COM/B11234350.204427752;dc_trk_aid=404183846;dc_trk_cid=82320291;pid=MLBDA0358;ord=170473548;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?"
+1505246936985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246937090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246937115	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246937127	Marionette	DEBUG	Received DOM event "pageshow" for "https://s0.2mdn.net/2568372/pixel_1x1.jpg"
+1505246937128	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967308"
+1505246937213	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246937217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246937256	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+1505246940866	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.mlb.com/gameday/pirates-vs-cardinals/2017/09/10/492242?partnerId=LR_box#game_tab=box,game_state=final,game=492242"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2744] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513

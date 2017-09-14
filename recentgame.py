@@ -13,7 +13,11 @@ app = Flask(__name__)
 TEAM_NAME = "Cardinals"
 #botID = "c274ccdc5f86049280ff12a8ba"
 # dankmemes gm 6a81587ced0e54086293c231e8
-botID = "6a81587ced0e54086293c231e8"
+botID = "c274ccdc5f86049280ff12a8ba"
+
+@app.route('/', methods=['GET'])
+def test():
+    return "hello"
 
 @app.route('/hi', methods=['POST'])
 def checkMessage():
@@ -22,6 +26,8 @@ def checkMessage():
     # this checks if person wants to check score
     if data['text'] == "!check":
         getRecentScore()
+
+    return "ok", 200
 
 
 def getRecentScore():
